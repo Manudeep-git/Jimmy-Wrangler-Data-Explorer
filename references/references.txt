@@ -1,0 +1,9 @@
+https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html
+
+https://pandas.pydata.org/pandas-docs/stable/index.html
+
+https://docs.google.com/spreadsheets/d/1zeeZQzFoHE2j_ZrqDkVJK9eF7OH1yvg75c8S-aBcxaU/edit#gid=0
+
+https://www.kaggle.com/resulcaliskan/countries-gdps
+
+https://www.kaggle.com/centurion1986/countries-population
